@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Lokanta Otomasyonu</string>
+    <string name="title_activity_yonetici_islemleri">yonetici_islemleri</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_musteri_islemleri">musteri islemleri</string>
+    <string name="yonetici_girisi">Yonetıcı gırısı</string>
+    <string name="musteri_girisi">Musterı gırısı</string>
+    <string name="yonetici_adi">Yonetıcı adı</string>
+    <string name="yemek_ekle">yemek ekle</string>
+    <string name="yemek_sil">yemek sıl</string>
+    <string name="asci_ekle">Ascı ekle</string>
+    <string name="asci_sil">Ascı sıl</string>
+    <string name="asci_ad_soyad"> </string>
+    <string name="asci_tc"> </string>
+    <string name="asci_maas"> </string>
+    <string name="yemek_tat"> </string>
+    <string name="ascilari_goruntule">Asciları goruntule</string>
+    <string name="yemekleri_goruntule">yemeklerı goruntule</string>
+    <string name="yemek_guncelle">yemek guncelle</string>
+    <string name="asci_guncelle">ascı guncelle</string>
+    <string name="yemek_ad_fiyat"> </string>
+    <string name="yemekleri_yenile">yemeklerı yenıle</string>
+    <string name="ascilar_yenile">ascıları yenıle</string>
+    <string name="muster_s_l">Musterı sıl</string>
+    <string name="musteri_guncelle">Musterı guncelle</string>
+    <string name="musterileri_goster">musterılerı goster</string>
+    <string name="musteri_tc"> </string>
+    <string name="musteri_ad_soyad"> </string>
+    <string name="yonetici_ad"> </string>
+    <string name="yoneticisifre"> </string>
+    <string name="yonetici_kayit">yonetıcı kayıt</string>
+    <string name="maas">Maas</string>
+    <string name="ad_ve_fiyat">Adı ve fiyatı</string>
+    <string name="tat">Tat</string>
+    <string name="sifre">SIFRE</string>
+    <string name="kullanici_adi">KULLANICI ADI</string>
+    <string name="tcsi">T.C</string>
+    <string name="ad_soyad">Adı / Soyadı</string>
+    <string name="tc">T.C</string>
+    <string name="geri_don">gerı don</string>
+    <string name="geri__don">gerı don</string>
+    <string name="musteri_ekle">MUSTERI EKLE</string>
+</resources>
